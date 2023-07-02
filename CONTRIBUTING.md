@@ -61,6 +61,7 @@ git push -u origin <branch name>
 
 1. Add this repository as an upstream.
 <!-- add name of your upstream repo -->
+
 ```bash
 git remote add upstream <repo_name>
 ```
